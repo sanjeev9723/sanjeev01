@@ -1,4 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+
+
+}
 #input-container {
     border: 5px solid white;
     padding: 10px;
-    background-color: antiquewhite;
+    background-color:white;
+}
+.change-cursor{
+    cursor:pointer;
+}
