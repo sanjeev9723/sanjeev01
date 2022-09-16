@@ -2,9 +2,8 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 90px;
-    background-color: black;
-
-
+    background-color:white;
+    
 }
 #input-container {
     border: 5px solid white;
